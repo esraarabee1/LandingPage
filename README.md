@@ -24,7 +24,7 @@
 ### 1. Clone the Repository:
 
 ```bash
-git clone
+git clone  https://github.com/esraarabee1/NextLandingPage.git
 cd
 ```
 
